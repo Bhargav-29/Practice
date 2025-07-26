@@ -10,3 +10,5 @@ git add -adds new or changed files in your working directory to the git staging 
         git add filename
 git commit --it is the record of change
         git commit -m "message"
+
+git push -- upload local repo content to repo
